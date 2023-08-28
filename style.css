@@ -1,0 +1,38 @@
+.main-content {
+    margin-top:50px;
+  }
+  
+  .block-container {
+    width: 50%;
+    float:left;
+  }
+  .h{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+
+  }
+  
+  .dice1 {
+    border-radius: 10px;
+    width:50px;
+    height:50px;
+  }
+  .dice2 {
+    border-radius: 10px;
+    width:50px;
+    height:50px;
+  }
+  .dice3 {
+    border-radius: 10px;
+    width:50px;
+    height:50px;
+  }
+  .btn-btn-primary{
+    display: block;
+    justify-self:center;
+    text-align: center;
+  }
+  
+ 
